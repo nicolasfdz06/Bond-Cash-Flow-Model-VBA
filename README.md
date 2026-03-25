@@ -39,7 +39,7 @@ This was a group project completed with other students. My contribution focused 
 ## Files Included
 - `task-brief.pdf` — original coursework brief
 - `bond-cash-flow-model.xlsm` — Excel/VBA model
-- `group-report.docx` — final group report
+- `group-report.pdf` — final group report
 
 ## Note
 This repository is included as part of my academic portfolio. It was completed as group coursework and is not presented as solely my individual work.
